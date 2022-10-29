@@ -37,6 +37,11 @@ p {
     font-size: 120%;
 }
 
+.to-home-dark {
+    text-decoration: none;
+    color:#F0F0F0;
+}
+
 .wrap {
     width: 100%;
     max-width: 1024px;
@@ -71,13 +76,13 @@ p {
     color:#303030;
 }
 
-.navbar a:hover {
-    color: dimgray
+.navbar-dark a {
+    text-decoration: none;
+    color:#F0F0F0;
 }
 
-.nav-dark a {
-    text-decoration: none;
-    color: #F0F0F0;
+.navbar a:hover {
+    color: dimgray
 }
 
 .header {
