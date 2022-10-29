@@ -9,6 +9,11 @@ body {
     color: #303030;
 }
 
+.to-home {
+    text-decoration: none;
+    color:#303030;
+}
+
 h1,
 h2,
 h3,
