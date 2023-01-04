@@ -172,3 +172,12 @@ a:hover {
 .spacer {
     height: 25px;
 }
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color: var(--text-color);
+    height: 1px;
+  }
